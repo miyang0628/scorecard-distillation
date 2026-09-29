@@ -1,0 +1,6 @@
+condition,AUC_mean,gap_recovered_frac
+Baseline,0.72719,0.0
+H2-only,0.72893,0.19619
+H1-only,0.73099,0.42792
+Full,0.73459,0.83327
+Teacher,0.73607,1.0

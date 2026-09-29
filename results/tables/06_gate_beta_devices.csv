@@ -1,0 +1,2 @@
+device1_AUC_teacherStu,device1_AUC_miscalStu,device1_DeLong_p,refine_teacher_lo,refine_teacher_hi,refine_miscal_lo,refine_miscal_hi,reliability_diff_mean,reliability_diff_lo,reliability_diff_hi
+0.729443,0.726435,0.250876,0.003239,0.006733,0.003079,0.006544,-0.007218,-0.008894,-0.005439

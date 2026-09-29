@@ -1,0 +1,13 @@
+block,variant,integer,reliability,ECE
+alpha,teacher,False,0.00088,0.02191
+alpha,a1(eps=0.10),False,0.00327,0.05617
+alpha,a2(eps=0.55),False,0.00297,0.03701
+alpha,teacher,True,0.00087,0.0215
+alpha,a1(eps=0.10),True,0.00322,0.05565
+alpha,a2(eps=0.55),True,0.00328,0.03819
+gamma,base(hard),False,0.00104,0.01838
+gamma,post(hard+isotonic),False,0.00078,0.02095
+gamma,distill(teacher),False,0.00088,0.02191
+gamma,base(hard),True,0.00101,0.0205
+gamma,post(hard+isotonic),True,0.00082,0.0219
+gamma,distill(teacher),True,0.00087,0.0215

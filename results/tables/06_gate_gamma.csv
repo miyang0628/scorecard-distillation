@@ -1,0 +1,7 @@
+gate,variant,integer,ECE,reliability,AUC
+gamma,base(hard),False,0.01838,0.00104,0.73304
+gamma,post(hard+isotonic),False,0.02095,0.00078,0.73159
+gamma,distill(teacher),False,0.02191,0.00088,0.72944
+gamma,base(hard),True,0.0205,0.00101,0.73254
+gamma,post(hard+isotonic),True,0.0219,0.00082,0.73142
+gamma,distill(teacher),True,0.0215,0.00087,0.7272

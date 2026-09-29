@@ -1,0 +1,2 @@
+n_features_used,n_cells_C,max_abs_residual,std_residual,AUC_xgb,AUC_scorecard
+21,133,3.07e-06,5.6e-07,0.73017748,0.73017748

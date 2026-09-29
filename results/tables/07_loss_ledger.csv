@@ -1,0 +1,10 @@
+PDO,grid,approx_loss_AUC,quantization_loss_AUC,note
+10,1,0.00734,0.00297,"reported separately, never summed"
+10,5,0.00734,0.00911,"reported separately, never summed"
+10,10,0.00734,0.03577,"reported separately, never summed"
+20,1,0.00734,-0.00096,"reported separately, never summed"
+20,5,0.00734,-0.00171,"reported separately, never summed"
+20,10,0.00734,0.00911,"reported separately, never summed"
+40,1,0.00734,0.00034,"reported separately, never summed"
+40,5,0.00734,0.00248,"reported separately, never summed"
+40,10,0.00734,-0.00171,"reported separately, never summed"

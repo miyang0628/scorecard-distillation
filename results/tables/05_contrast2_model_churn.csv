@@ -1,0 +1,16 @@
+tau,model,swap_rate,jaccard
+50,H2-only vs Baseline,0.0975,0.82413
+50,H1-only vs Baseline,0.07469,0.86264
+50,Full vs Baseline,0.10781,0.8064
+60,H2-only vs Baseline,0.09656,0.85194
+60,H1-only vs Baseline,0.07,0.89116
+60,Full vs Baseline,0.10438,0.8411
+70,H2-only vs Baseline,0.09469,0.87417
+70,H1-only vs Baseline,0.06094,0.91688
+70,Full vs Baseline,0.0975,0.87075
+80,H2-only vs Baseline,0.08312,0.90174
+80,H1-only vs Baseline,0.04875,0.94102
+80,Full vs Baseline,0.08656,0.89779
+90,H2-only vs Baseline,0.05531,0.94052
+90,H1-only vs Baseline,0.03031,0.96694
+90,Full vs Baseline,0.0575,0.93846
